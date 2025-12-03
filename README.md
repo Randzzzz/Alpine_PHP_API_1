@@ -1,0 +1,1 @@
+Note: [https://github.com/Randzzzz/Alpine_PHP_API_1/tree/main/scripts/legacy-js](src) contains old JS code that is not been used in this repository. This is for reference only in migrating to Alpine.js
