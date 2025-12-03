@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+/* navbar */
+#sidebar {
+  font-family: "Montserrat", sans-serif;
+}
+#sidebar .title {
+  font-weight: 800;
+}
+#sidebar li {
+  font-weight: 600;
+}
+
+/* menu */
+.menu .menu-title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+}
+.menu .title {
+  font-family: "Hind", sans-serif;
+}
+
+.menu .item-container {
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+.menu .item-container:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+.menu .order {
+  font-family: "Montserrat", sans-serif;
+}
+
+/* footer */
+.footer {
+  font-family: "Montserrat", sans-serif;
+}
+.footer .links {
+  font-weight: 600;
+}
+
+/* scroll button */
+#scrollToTopBtn {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+}
